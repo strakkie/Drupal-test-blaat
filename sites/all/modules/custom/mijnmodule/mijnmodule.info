@@ -1,6 +1,6 @@
 ; $Id$
 name = Create Module
-description = Create an empty module in the module folder
+description = Create an empty module in the module folder. Oefening 2
 package = Development
 version = "7.x-1.2"
 core = 7.x
